@@ -11,6 +11,12 @@ public class hello{
         int a = 90;
         int b = 89;
         int c = a+b;
+<<<<<<< Updated upstream
 
+=======
+        int l = 90;int mnm = 89;
+
+        int mnma = 89;
+>>>>>>> Stashed changes
     }
 }
